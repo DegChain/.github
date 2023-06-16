@@ -13,6 +13,7 @@ Degchain Contracts is a collection of smart contracts designed for managing user
 -   User registration and management
 -   Document uploading and retrieval
 -   Ownership verification
+-   Secure
 
 ## Prerequisites
 
