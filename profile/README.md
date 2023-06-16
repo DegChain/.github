@@ -36,7 +36,7 @@ Degchain Contracts is a collection of smart contracts designed for managing user
 
 3. Install the dependencies:
     ```shell
-    yarn install
+    yarn
     ```
 
 ## Usage
